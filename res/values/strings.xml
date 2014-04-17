@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">client</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="entern_ip_address">Enter IP Address</string>
+    <string name="register">Register</string>
+    <string name="registry_status">Registry Status:</string>
+    <string name="registry_status_result">Not Registered</string>
+    <string name="broadcast_label">Broadcast Message:</string>
+    <string name="broadcast_result">No broadcast message yet</string>
+
+</resources>
